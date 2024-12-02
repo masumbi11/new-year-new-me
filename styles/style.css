@@ -1,0 +1,119 @@
+/* font famely style */
+body{
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+      margin:0;
+}
+.header-banner{
+     
+    background-image: url('../images/banner/banner3.png');
+    background-repeat: no-repeat;
+    width: 1600px;
+    height: 808px;
+}
+header >div{
+}
+.banner-colams{
+    text-align: right;
+    padding-right: 230px;
+}
+.banner-title{
+    padding-top: 216px;
+    padding-left: 845px;
+    width: 525px;
+    display: flex;
+    color: #FFF;
+    font-size: 65px;
+    font-weight: 700;
+    margin:0;
+}
+.banner-containt{
+    padding-left: 875px;
+    margin-top: 24px;
+    color: #FFF;
+    width: 494px;
+    margin-top: 26px;
+    margin-bottom: 32px;
+}
+.header-butoone{
+    width: 160px;
+    height: 64px;
+    color: #005FAC;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: right;
+    border-radius: 5px;
+    background: #FFF;
+}
+/* main tag style */
+.imege{
+     padding-top: 140px;
+     padding-left: 247px;
+     padding-right: 134px;
+}
+.My-failures-of-previous-year-cintinar{
+    display: flex;
+}
+.My-failures-of-previous-year-title{
+    padding-top: 337px ;
+    width: 288px;
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+.My-failures-of-previous-year-containt {
+    width: 416px;
+    color: #444343;
+    line-height: 26px;
+    margin-top: 24px;
+    margin-bottom: 0;
+}
+.My-failures-of-previous-year-li{
+    color: #444343;
+    margin-top: 16px;
+    margin-bottom: 224px;
+    
+}
+/* My Plans styles */
+.My-Plans-title{
+    color: #151414;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 53px;
+}
+.My-Plans-content {
+    display: flex;
+}
+
+.My-Plains-image{
+    display: block;
+    /* padding: 99px; */
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 24px;
+}
+.web{
+    padding-right: 244.04px;
+}
+.js{
+    padding-right: 192.04px;
+}
+.smoke{
+    padding-right: 209px;
+}
+.My-Plans-content-title{
+    color: #151414;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 0;
+}
+.My-Plans-content-p{
+    color: #737272;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 16px;
+}
