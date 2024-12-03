@@ -122,6 +122,8 @@ header >div{
     background-image:url("../images/watch.png");
     background-repeat: no-repeat;
     margin-left: 30px;
+    margin-top: 130px;
+    margin-bottom: 130px;
 }
 .positive-mindset-image{
     position: relative;
@@ -155,4 +157,56 @@ header >div{
     font-weight: 600;
     margin-top: 45px;
 }
- 
+/* footer contaent styles */
+ footer{
+    background-color: #151414;
+    color: #FFF;
+ }
+ .footer-contenar{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    padding-top: 130px;
+ }
+ .footer-Future-title{
+    color: #F8F8F8;
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 16px;
+ }
+ .footer-Subscribe-title{
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+ }
+ .footer-Future-content{
+    width: 485px;
+    color: #FFF;
+
+ }
+ .footer-Future-title-con{
+    padding-left: 230px;
+ }
+ .footer-Subscribe-title-con{
+    padding-right: 229px;
+ }
+ form input{
+    background-color: #151414;
+    width: 325px;
+    height: 64px;
+    border-radius: 8px;
+    border: 1px solid #FFF;
+    display: block;
+ }
+ button{
+    width: 170.106px;
+    height: 64px;
+    border-radius: 8px;
+    background: #005FAC;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+ }
+ .sosal-icone{
+    padding-left: 230px;
+ }
